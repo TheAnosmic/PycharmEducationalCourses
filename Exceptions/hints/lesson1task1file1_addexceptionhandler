@@ -1,0 +1,1 @@
+Always wrap functions that might fail with try block

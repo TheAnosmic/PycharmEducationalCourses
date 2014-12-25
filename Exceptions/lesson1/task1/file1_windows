@@ -1,0 +1,6 @@
+#educational_plugin_window = try:
+    function_that_might_fail()
+except:
+    print "Function failed but i succeded"
+
+    csdcsv

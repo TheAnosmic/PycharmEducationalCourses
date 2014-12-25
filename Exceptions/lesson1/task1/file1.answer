@@ -1,0 +1,6 @@
+from helper import function_that_might_fail
+
+try:
+    function_that_might_fail()
+except:
+    print "Function failed but i succeded"

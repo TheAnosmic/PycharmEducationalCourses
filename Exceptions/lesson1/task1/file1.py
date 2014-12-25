@@ -1,0 +1,3 @@
+from helper import function_that_might_fail
+
+function_that_might_fail()
